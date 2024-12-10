@@ -14,7 +14,7 @@ export const Card = styled.div<PropsSemLegendaEContador>`
 
 export const Contador = styled.span`
   font-weight: bold;
-  font-size-24px;
+  font-size: 24px;
   display: block;
 `
 
